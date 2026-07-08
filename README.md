@@ -263,62 +263,6 @@ Vidya India is an education-focused organization supporting underprivileged stud
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| _Add your recognition_ | _e.g. Hackathon win, Dean's list, competition ranking_ |
-| _Add your recognition_ | _e.g. Published research, open-source contribution_ |
-
-</div>
-
-> *Populate this table with your verified achievements, awards, or competition results.*
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 📜 Certifications
-
-> *Add your certification badges below once earned — grouped by provider.*
-
-<div align="center">
-
-**AWS**
-<br/>
-<img src="https://img.shields.io/badge/Add%20Your%20AWS%20Certification-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-**Oracle**
-<br/>
-<img src="https://img.shields.io/badge/Add%20Your%20Oracle%20Certification-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-
-**NPTEL**
-<br/>
-<img src="https://img.shields.io/badge/Add%20Your%20NPTEL%20Certification-8B5CF6?style=flat-square"/>
-
-**Cisco**
-<br/>
-<img src="https://img.shields.io/badge/Add%20Your%20Cisco%20Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-
-</div>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/your-username/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0F0524"/></a>
-<a href="https://www.geeksforgeeks.org/user/your-username/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0F0524"/></a>
-<a href="https://www.hackerrank.com/your-username"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0F0524"/></a>
-<a href="https://www.codechef.com/users/your-username"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0F0524"/></a>
-
-<sub>*Replace `your-username` with your actual handles on each platform.*</sub>
-
-</div>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
 ## 📊 GitHub Analytics
 
 <div align="center">
