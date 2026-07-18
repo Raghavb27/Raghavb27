@@ -7,7 +7,6 @@
 <br/>
 
 ![BTech CSE](https://img.shields.io/badge/BTech-Computer%20Science%20%26%20Engineering-8B5CF6?style=for-the-badge&labelColor=0D1117)
-![CGPA](https://img.shields.io/badge/CGPA-7.0%2F10-6366F1?style=for-the-badge&labelColor=0D1117)
 ![Class of 2029](https://img.shields.io/badge/Class%20of-2029-A855F7?style=for-the-badge&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/Patiala%2C%20Punjab-India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
 
